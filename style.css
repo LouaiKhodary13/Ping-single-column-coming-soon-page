@@ -16,6 +16,12 @@
 body {
   font-family: 'Libre Franklin', sans-serif;
 }
+.user_email {
+  border: 1px solid red;
+}
+.error-input {
+  visibility: hidden;
+}
 .attribution {
   position: fixed;
   font-size: 11px;
